@@ -1,4 +1,4 @@
-# MDSpammers
+# LordSpam
 Medium spammers dengan 100 Tools Spammers (SMS,Call,Wa).
 # Spam available
 ```
